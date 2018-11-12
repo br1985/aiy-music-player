@@ -1,4 +1,4 @@
-# aiy-music-player
+# AIY Music Player
 
 Thing: https://www.thingiverse.com/thing:3211744
 
